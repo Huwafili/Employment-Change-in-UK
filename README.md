@@ -37,7 +37,7 @@ Welcome to the **UK Job Change Dashboard**! 🚀 Using the **EMSI Job Change in 
 ---
 
 ## 🚀 How to Explore  
-1. 🌐 **[Check out the Tableau Dashboard](#)**  
+1. 🌐 **[Check out the Tableau Dashboard](#)**
 
 [Dashboard Preview](https://public.tableau.com/shared/7X7YKP4TG?:display_count=n&:origin=viz_share_link)
 

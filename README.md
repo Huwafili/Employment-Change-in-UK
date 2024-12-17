@@ -18,6 +18,9 @@ Welcome to the **UK Job Change Dashboard**! 🚀 Using the **EMSI Job Change in 
   - 🎯 **Scatter Plot**: Top 10 industries with the largest job changes.  
 - **Dashboard Design**: Combined these visuals into a cohesive and interactive dashboard that tells a story with a single glance.  
 
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/5efd7aae-174b-497f-928b-7168eae8af82" />
+ 
+
 
 
 
@@ -29,7 +32,7 @@ Welcome to the **UK Job Change Dashboard**! 🚀 Using the **EMSI Job Change in 
 - 🗺️ **City-Level Analysis**: Explore how job change percentages vary across UK cities.  
 - 🚀 **Top Performers**: Find out which industries dominate the top 10 changes.  
 
-[image](https://public.tableau.com/shared/7X7YKP4TG?:display_count=n&:origin=viz_share_link) 
+
 
 ---
 
